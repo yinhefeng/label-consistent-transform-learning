@@ -9,3 +9,5 @@ The difference between [1] and our work is that, [1] actually introduces the cla
 The feature of Scene 15 dataset can be downloaded from https://pan.baidu.com/s/13fLCEhZONv_CtroZnacT1w or http://users.umiacs.umd.edu/~zhuolin/projectlcksvd.html
 
 [1] Maggu J, Aggarwal H K, Majumdar A. Label-Consistent Transform Learning for Hyperspectral Image Classification[J]. IEEE Geoscience and Remote Sensing Letters, 2019.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" title="ax^{2} + by^{2} + c = 0" /></a>
