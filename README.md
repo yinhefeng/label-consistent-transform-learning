@@ -9,4 +9,5 @@ The difference between [1] and our work is that, [1] actually introduces the cla
 The feature of Scene 15 dataset can be downloaded from https://pan.baidu.com/s/13fLCEhZONv_CtroZnacT1w or http://users.umiacs.umd.edu/~zhuolin/projectlcksvd.html
 
 [1] Maggu J, Aggarwal H K, Majumdar A. Label-Consistent Transform Learning for Hyperspectral Image Classification[J]. IEEE Geoscience and Remote Sensing Letters, 2019.
+
 [2] He-Feng Yin, Xiao-Jun Wu. Label consistent transform learning for pattern classification. Submitted to Journal of Algorithms and Computational Technology. (Under Review)
