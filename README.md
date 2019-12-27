@@ -10,4 +10,4 @@ The feature of Scene 15 dataset can be downloaded from https://pan.baidu.com/s/1
 
 [1] Maggu J, Aggarwal H K, Majumdar A. Label-Consistent Transform Learning for Hyperspectral Image Classification[J]. IEEE Geoscience and Remote Sensing Letters, 2019.
 
-[2] He-Feng Yin, Xiao-Jun Wu. Label consistent transform learning for pattern classification. Submitted to Journal of Algorithms and Computational Technology. (Under Review)
+[2] He-Feng Yin, Xiao-Jun Wu. Label consistent transform learning for pattern classification. Journal of Algorithms & Computational Technology, 2019, 13: 1748302619881395.
